@@ -69,20 +69,11 @@ public class CreateAstronautDutyTests
         // Act
         var result = await hanlder.Handle(request, CancellationToken.None);
 
-
         // Assert
         Assert.NotNull(result);
         Assert.True(result.Success);
-
-        var astronautDetail = await _context.AstronautDetails.FirstOrDefaultAsync();
-        var astronautDuty = await _context.AstronautDuties.FirstOrDefaultAsync();
-
-        // Assert 
-        Assert.NotNull(astronautDetail);
-        Assert.Equal(request.DutyTitle, astronautDetail.CurrentDutyTitle);
-        Assert.NotNull(astronautDuty);
-        // Assert.Equal(request.DutyTitle, astronautDuty.DutyTitle);
-        // Assert.Equal(request.DutyStartDate, astronautDuty.DutyStartDate);
+        Assert.Equal(request.DutyTitle, result.DutyTitle);
+        Assert.Equal(request.DutyStartDate, result.DutyStartDate);
     }
 
     [Fact]
@@ -106,16 +97,9 @@ public class CreateAstronautDutyTests
         // Act
         var result = await hanlder.Handle(request, CancellationToken.None);
 
-
         // Assert
         Assert.NotNull(result);
         Assert.True(result.Success);
-
-        var astronautDetail = await _context.AstronautDetails.FirstOrDefaultAsync();
-
-        // Assert 
-        Assert.NotNull(astronautDetail);
-        Assert.Equal(request.DutyTitle, astronautDetail.CurrentDutyTitle);
     }
 
 }

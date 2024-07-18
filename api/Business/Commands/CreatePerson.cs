@@ -1,4 +1,5 @@
-﻿using MediatR;
+﻿using Dapper;
+using MediatR;
 using MediatR.Pipeline;
 using Microsoft.EntityFrameworkCore;
 using StargateAPI.Business.Data;
@@ -38,21 +39,32 @@ namespace StargateAPI.Business.Commands
         }
         public async Task<CreatePersonResult> Handle(CreatePerson request, CancellationToken cancellationToken)
         {
+            var person = GetPersonByname(request.Name);
+            if (person.Result is not null)
+            {
+                throw new Exception("Person already exists");
+            }
 
-                var newPerson = new Person()
-                {
+
+            var newPerson = new Person()
+            {
                    Name = request.Name
-                };
+            };
 
-                await _context.People.AddAsync(newPerson);
+            await _context.People.AddAsync(newPerson);
 
-                await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
 
-                return new CreatePersonResult()
-                {
-                    Id = newPerson.Id
-                };
-          
+            return new CreatePersonResult()
+            {
+                Id = newPerson.Id
+            };
+        }
+
+        private async Task<Person> GetPersonByname(string name)
+        {
+            var query = $"SELECT * FROM [Person] WHERE \'{name}\' = Name";
+            return await _context.Connection.QueryFirstOrDefaultAsync<Person>(query);
         }
     }
 

@@ -117,7 +117,9 @@ namespace StargateAPI.Business.Commands
 
                     return new CreateAstronautDutyResult()
                     {
-                        Id = newAstronautDuty.Id
+                        Id = newAstronautDuty.Id,
+                        DutyTitle = newAstronautDuty.DutyTitle,
+                        DutyStartDate = newAstronautDuty.DutyStartDate
                     };
                 }
                 catch (Exception ex)
@@ -215,5 +217,8 @@ namespace StargateAPI.Business.Commands
     public class CreateAstronautDutyResult : BaseResponse
     {
         public int? Id { get; set; }
+        public string? DutyTitle { get; set; }
+        public DateTime? DutyStartDate { get; set; }
+
     }
 }
