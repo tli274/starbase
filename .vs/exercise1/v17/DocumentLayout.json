@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\commands\\createperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\commands\\createperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\queries\\getpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\queries\\getpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\queries\\getpersonbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\queries\\getpersonbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\queries\\getastronautdutiesbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\queries\\getastronautdutiesbyname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\data\\stargatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\data\\stargatecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\commands\\createastronautduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\commands\\createastronautduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A026F675-CF58-4483-99B1-E35A3B2C838C}|stargate.tests\\stargate.tests.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\stargate.tests\\createastronautdutytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A026F675-CF58-4483-99B1-E35A3B2C838C}|stargate.tests\\stargate.tests.csproj|solutionrelative:stargate.tests\\createastronautdutytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\controllers\\astronautdutycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\controllers\\astronautdutycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A026F675-CF58-4483-99B1-E35A3B2C838C}|stargate.tests\\stargate.tests.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\stargate.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A026F675-CF58-4483-99B1-E35A3B2C838C}|stargate.tests\\stargate.tests.csproj|solutionrelative:stargate.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\data\\astronautdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\data\\astronautdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\data\\astronautduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\data\\astronautduty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\migrations\\20240122154939_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\migrations\\20240122154939_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\business\\migrations\\20240122154939_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\business\\migrations\\20240122154939_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|c:\\users\\liton\\onedrive\\desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C0FD9D6-6E97-4FD2-9F6F-E0B2F28D6FB8}|api\\StargateAPI.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Commands\\CreatePerson.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Commands\\CreatePerson.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Commands\\CreatePerson.cs",
+              "RelativeToolTip": "api\\Business\\Commands\\CreatePerson.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:11:49.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAstronautDuty.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Commands\\CreateAstronautDuty.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Commands\\CreateAstronautDuty.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Commands\\CreateAstronautDuty.cs",
+              "RelativeToolTip": "api\\Business\\Commands\\CreateAstronautDuty.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowBsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T21:43:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StargateContext.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\StargateContext.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Data\\StargateContext.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\StargateContext.cs",
+              "RelativeToolTip": "api\\Business\\Data\\StargateContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:21:10.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAstronautDutiesByName.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetAstronautDutiesByName.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Queries\\GetAstronautDutiesByName.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetAstronautDutiesByName.cs",
+              "RelativeToolTip": "api\\Business\\Queries\\GetAstronautDutiesByName.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:15:51.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetPersonByName.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetPersonByName.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Queries\\GetPersonByName.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetPersonByName.cs",
+              "RelativeToolTip": "api\\Business\\Queries\\GetPersonByName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:16:02.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetPeople.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetPeople.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Queries\\GetPeople.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Queries\\GetPeople.cs",
+              "RelativeToolTip": "api\\Business\\Queries\\GetPeople.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvyUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:16:00.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateAstronautDutyTests.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\stargate.tests\\CreateAstronautDutyTests.cs",
+              "RelativeDocumentMoniker": "stargate.tests\\CreateAstronautDutyTests.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\stargate.tests\\CreateAstronautDutyTests.cs",
+              "RelativeToolTip": "stargate.tests\\CreateAstronautDutyTests.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAADwv1QAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:02:46.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Data\\Person.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\Person.cs",
+              "RelativeToolTip": "api\\Business\\Data\\Person.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T02:11:24.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AstronautDutyController.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\AstronautDutyController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AstronautDutyController.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Controllers\\AstronautDutyController.cs",
+              "RelativeToolTip": "api\\Controllers\\AstronautDutyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:36:24.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\stargate.tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "stargate.tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\stargate.tests\\UnitTest1.cs",
+              "RelativeToolTip": "stargate.tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T01:36:17.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AstronautDetail.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\AstronautDetail.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Data\\AstronautDetail.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\AstronautDetail.cs",
+              "RelativeToolTip": "api\\Business\\Data\\AstronautDetail.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T20:31:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AstronautDuty.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\AstronautDuty.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Data\\AstronautDuty.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Data\\AstronautDuty.cs",
+              "RelativeToolTip": "api\\Business\\Data\\AstronautDuty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T21:25:12.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240122154939_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Migrations\\20240122154939_InitialCreate.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Migrations\\20240122154939_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Migrations\\20240122154939_InitialCreate.cs",
+              "RelativeToolTip": "api\\Business\\Migrations\\20240122154939_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T21:25:07.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:16:18.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T15:18:23.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240122154939_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Migrations\\20240122154939_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "api\\Business\\Migrations\\20240122154939_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Business\\Migrations\\20240122154939_InitialCreate.Designer.cs",
+              "RelativeToolTip": "api\\Business\\Migrations\\20240122154939_InitialCreate.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwH4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:20:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\liton\\OneDrive\\Desktop\\tech_review\\tech_exercise_v.0.0.4\\tech_exercise\\package\\exercise1\\api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T15:15:26.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
